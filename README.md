@@ -19,13 +19,14 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 - ## Resultados Finales
+![image](https://github.com/SUPaezRivas/act10-paez0524/assets/143548332/53a8c5ea-a5ff-4d0c-b229-d2bfe857252c)
 
-- ![image](https://github.com/SUPaezRivas/act10-paez0524/assets/143548332/5be7e150-8d46-4f9c-b1e3-f4343d7aa556)
+![image](https://github.com/SUPaezRivas/act10-paez0524/assets/143548332/b4320359-31b3-47ad-aef3-c9c40e0cc2c7)
 
-  ![image](https://github.com/SUPaezRivas/act10-paez0524/assets/143548332/3e25c737-9821-47e0-9a9a-352f90b9ea76)
+
 
   ## LInk de referencia
 
-  https://youtu.be/BpN5f_747pI?si=ku6bZ52ipIrOOBhT
+https://youtu.be/BpN5f_747pI?si=ku6bZ52ipIrOOBhT
 
 
